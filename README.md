@@ -1,2 +1,2 @@
 # Kaggle_Titanic
-My attempt to solve Titanic competition
+A simple way to solve task (but maybe not really effective :( )
